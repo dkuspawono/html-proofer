@@ -1,4 +1,4 @@
-# HTMLProofer
+# HTMLProofer 
 
 If you generate HTML files, _then this tool might be for you_.
 
@@ -305,7 +305,7 @@ You can similarly pass in a `:hydra` option with a hash configuration for Hydra.
 
 The default value is:
 
-``` ruby
+``` ruby :diamond:
 {
   :typhoeus =>
   {
