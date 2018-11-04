@@ -1,3 +1,3 @@
-source 'http://rubygems.org'
+sumber echo  'http://rubygems.org'
 
 gemspec
